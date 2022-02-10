@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Odoo and React.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on React with Redux and Hyperledger Fabric (a blockchain framework).
+- 🌱 I’m currently getting deeper in my knowledge.
 - 💬 Ask me about React, Redux, Node, PostgreSQL, Mongo.
 - 📫 How to reach me: josegarrera@gmail.com
 
