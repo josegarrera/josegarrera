@@ -2,7 +2,12 @@
 
 
 
-- 💬 I'm a lifelong learner and am always looking for new technologies and techniques to improve my skills. I'm currently exploring Test Driven Development (TDD) to improve my code quality and efficiency.
+- 💬 I'm passionate about software development and the problem-solving challenges it presents. From a young age, I've been fascinated by technology's potential to solve problems.
+
+- 💬 I particularly enjoy collaborating with clients to understand their needs and then crafting creative solutions through code.
+
+- 💬 I'm a lifelong learner and am always looking for new technologies and techniques to improve my skills.
+  
 - 📫 How to reach me: josegarrera@gmail.com
 
 
